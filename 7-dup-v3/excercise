@@ -1,0 +1,3 @@
+./dup-v2 data.txt data2.txt
+data.txt	data2.txt	3	Hello
+data.txt	data2.txt       3	World

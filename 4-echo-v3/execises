@@ -1,0 +1,5 @@
+เปลี่ยนโค้ดให้พิมพ์แบบนี้แทน
+
+./echo Hello World
+1: Hello
+2: World
